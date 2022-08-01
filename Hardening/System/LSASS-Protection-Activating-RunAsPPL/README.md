@@ -1,5 +1,13 @@
 # LSASS Protection - Activating RunAsPPL
 
+**Table of contents**
+
+ + [Introduction](./#Introduction)
+ + [Setup on a local machine](./local-machine.md)
+ + [Setup on a group of machines in the domain](./on-a-group-of-machines-in-the-domain.md)
+
+---
+
 ## Introduction
 
 [https://itm4n.github.io/lsass-runasppl/](https://itm4n.github.io/lsass-runasppl/)
