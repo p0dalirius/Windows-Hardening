@@ -3,8 +3,8 @@
 **Table of contents**
 
  + [Introduction](./#Introduction)
- + [Setup on a local machine](./#Setup on a local machine)
- + [Setup on a group of machines in the domain](./#Setup on a group of machines in the domain)
+ + [Setup on a local machine](./local-machine.md)
+ + [Setup on a group of machines in the domain](./on-a-group-of-machines-in-the-domain.md)
 
 ---
 
